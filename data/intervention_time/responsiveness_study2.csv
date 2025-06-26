@@ -2,14 +2,14 @@ id,group,condition,active,control,difference_drinks_occasions,responsive
 muri015,g2p,perspective,1.0,1.5,-0.5,0
 muri016 ,g2p,perspective,0.0,0.0,0.0,0
 muri018,g2p,perspective,2.5,3.0,-0.5,0
-muri023,g2p,perspective,0.5,2.0,-1.5,0
+muri023,g2p,perspective,0.5,2.0,-1.5,1
 muri028,g2p,mindful,0.0,0.0,0.0,0
-muri042,g2p,mindful,0.5,2.0,-1.5,0
+muri042,g2p,mindful,0.5,2.0,-1.5,1
 muri043,g2p,perspective,0.0,0.0,0.0,0
-muri077,g2p,perspective,2.5,4.0,-1.5,0
+muri077,g2p,perspective,2.5,4.0,-1.5,1
 muri080,g2p,mindful,0.0,0.0,0.0,0
 muri082,g2p,mindful,0.0,0.0,0.0,0
-muri085,g3p,mindful,0.5,2.0,-1.5,0
+muri085,g3p,mindful,0.5,2.0,-1.5,1
 muri087,g3p,mindful,2.5,1.0,1.5,0
 muri101 ,g3p,mindful,0.0,2.5,-2.5,1
 muri104,g3p,perspective,0.5,1.0,-0.5,0
@@ -40,7 +40,7 @@ muri374,g10p,mindful,0.0,0.0,0.0,0
 muri379,g10p,perspective,0.0,0.0,0.0,0
 muri385,g10p,perspective,0.0,0.0,0.0,0
 muri387,g10p,perspective,0.5,0.0,0.5,0
-muri388,g10p,mindful,0.0,2.0,-2.0,0
+muri388,g10p,mindful,0.0,2.0,-2.0,1
 muri398,g11p,mindful,0.0,0.0,0.0,0
 muri406,g11p,mindful,1.5,1.5,0.0,0
 muri410,g11p,mindful,0.0,0.0,0.0,0
@@ -62,7 +62,7 @@ muri499,g13p,perspective,0.0,0.0,0.0,0
 muri501,g13p,perspective,1.0,0.5,0.5,0
 muri507,g13p,perspective,0.0,0.0,0.0,0
 muri510,g13p,perspective,2.0,1.5,0.5,0
-muri520,g13p,mindful,2.0,4.0,-2.0,0
+muri520,g13p,mindful,2.0,4.0,-2.0,1
 muri521,g13p,mindful,0.5,0.0,0.5,0
 muri526,g13p,mindful,0.5,1.5,-1.0,0
 muri528,g14p,mindful,0.0,0.5,-0.5,0
@@ -84,7 +84,7 @@ muri584,g15p,mindful,0.0,1.0,-1.0,0
 muri586,g15p,mindful,0.0,0.0,0.0,0
 muri587,g15p,mindful,1.5,4.5,-3.0,1
 muri590,g15p,perspective,0.0,0.0,0.0,0
-muri596,g15p,mindful,0.5,2.5,-2.0,0
+muri596,g15p,mindful,0.5,2.5,-2.0,1
 muri603,g15p,mindful,,1.5,,0
 muri605,g15p,perspective,3.0,2.5,0.5,0
 muri610,g11p,perspective,0.0,0.5,-0.5,0
@@ -93,17 +93,17 @@ muri616,g11p,perspective,2.0,6.0,-4.0,1
 muri620,g11p,mindful,0.0,0.0,0.0,0
 muri622,g11p,mindful,2.0,2.5,-0.5,0
 muri623,g11p,mindful,0.0,0.5,-0.5,0
-muri624,g11p,mindful,0.0,1.5,-1.5,0
+muri624,g11p,mindful,0.0,1.5,-1.5,1
 muri627,g11p,mindful,0.0,0.0,0.0,0
 muri628,g11p,mindful,0.0,0.0,0.0,0
 muri629,g11p,perspective,0.0,0.0,0.0,0
 muri647,g2p,mindful,0.0,0.0,0.0,0
 muri674,g5p,mindful,1.5,1.5,0.0,0
 muri683,g5p,mindful,7.5,2.5,5.0,0
-muri690,g5p,perspective,2.5,4.0,-1.5,0
-muric206,g1c,perspective,2.0,3.5,-1.5,0
+muri690,g5p,perspective,2.5,4.0,-1.5,1
+muric206,g1c,perspective,2.0,3.5,-1.5,1
 muric217,g1c,perspective,,0.0,,0
-muric220,g1c,perspective,1.0,2.5,-1.5,0
+muric220,g1c,perspective,1.0,2.5,-1.5,1
 muric221,g1c,mindful,0.0,0.0,0.0,0
 muric237,g2c,mindful,1.5,4.0,-2.5,1
 muric255,g2c,mindful,0.0,0.5,-0.5,0
@@ -139,7 +139,7 @@ muric496,g9c,mindful,0.0,1.0,-1.0,0
 muric498,g9c,mindful,0.0,0.0,0.0,0
 muric505,g9c,perspective,0.0,0.0,0.0,0
 muric506,g9c,perspective,0.0,0.0,0.0,0
-muric507,g9c,perspective,0.0,1.5,-1.5,0
+muric507,g9c,perspective,0.0,1.5,-1.5,1
 muric525,g10c,mindful,0.0,0.0,0.0,0
 muric527,g10c,perspective,0.5,0.0,0.5,0
 muric531,g10c,perspective,0.0,0.0,0.0,0
