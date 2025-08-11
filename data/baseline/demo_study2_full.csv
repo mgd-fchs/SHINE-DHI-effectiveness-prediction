@@ -1,0 +1,139 @@
+id,gender_numeric,age,income_numeric,college_year,race_numeric
+muri015,1.0,19.0,,,
+muri016 ,1.0,18.0,,,
+muri018,1.0,19.0,15.0,2.0,White
+muri023,1.0,21.0,15.0,2.0,Black or African American
+muri028,1.0,19.0,20.0,2.0,Black or African American
+muri042,1.0,21.0,,,
+muri043,1.0,19.0,15.0,2.0,"White,Asian"
+muri077,1.0,21.0,20.0,4.0,White
+muri080,1.0,21.0,8.0,3.0,Asian
+muri082,1.0,22.0,20.0,5.0,White
+muri085,2.0,21.0,20.0,4.0,"White,Latino/a"
+muri087,2.0,19.0,15.0,1.0,White
+muri101 ,2.0,21.0,,,
+muri104,2.0,20.0,20.0,3.0,Asian
+muri146,2.0,21.0,,,
+muri147,2.0,19.0,6.0,2.0,White
+muri151,2.0,20.0,20.0,3.0,White
+muri190,2.0,20.0,15.0,4.0,Asian
+muri213,2.0,21.0,20.0,4.0,Asian
+muri230,2.0,20.0,8.0,3.0,Black or African American
+muri240,2.0,21.0,20.0,4.0,"White,Asian"
+muri245,2.0,19.0,15.0,2.0,Latino/a
+muri249,2.0,21.0,20.0,2.0,White
+muri275,2.0,18.0,20.0,1.0,"White,Asian"
+muri308,2.0,21.0,20.0,3.0,White
+muri318,2.0,18.0,20.0,1.0,White
+muri321,2.0,21.0,15.0,4.0,White
+muri326,2.0,21.0,20.0,3.0,White
+muri330,2.0,21.0,3.0,4.0,Latino/a
+muri340,2.0,21.0,20.0,4.0,White
+muri341,2.0,21.0,15.0,4.0,White
+muri344,2.0,19.0,8.0,2.0,"White,Native Hawaiian or Other Pacific Islander"
+muri354,2.0,22.0,2.0,4.0,White
+muri359,2.0,18.0,20.0,1.0,White
+muri371,2.0,21.0,20.0,4.0,Asian
+muri374,2.0,20.0,20.0,3.0,Asian
+muri379,1.0,22.0,15.0,4.0,Asian
+muri387,1.0,22.0,15.0,4.0,Black or African American
+muri388,2.0,21.0,2.0,3.0,Asian
+muri398,1.0,20.0,3.0,2.0,Asian
+muri406,2.0,19.0,3.0,2.0,Black or African American
+muri410,2.0,19.0,1.0,2.0,Asian
+muri417,2.0,21.0,20.0,4.0,Asian
+muri432,2.0,20.0,1.0,3.0,Asian
+muri436,2.0,19.0,15.0,2.0,"White,Asian"
+muri437,2.0,20.0,6.0,3.0,"White,American Indian or Alaska Native,Latino/a"
+muri442,1.0,20.0,20.0,2.0,White
+muri449,2.0,21.0,20.0,4.0,Asian
+muri451,2.0,18.0,15.0,2.0,Black or African American
+muri462,2.0,19.0,20.0,2.0,Asian
+muri463,2.0,20.0,15.0,2.0,Black or African American
+muri464,2.0,21.0,2.0,4.0,Asian
+muri466,1.0,20.0,20.0,2.0,Asian
+muri478,2.0,19.0,6.0,2.0,White
+muri482,2.0,19.0,8.0,1.0,White
+muri493,2.0,20.0,20.0,2.0,Asian
+muri499,2.0,19.0,15.0,1.0,Other
+muri501,1.0,21.0,15.0,4.0,White
+muri507,2.0,20.0,8.0,3.0,Asian
+muri510,2.0,20.0,8.0,3.0,Black or African American
+muri520,2.0,19.0,20.0,2.0,"White,Latino/a"
+muri521,2.0,20.0,3.0,3.0,Asian
+muri526,2.0,21.0,15.0,3.0,Black or African American
+muri528,1.0,21.0,15.0,4.0,Asian
+muri529,2.0,21.0,3.0,3.0,Asian
+muri532,2.0,22.0,15.0,4.0,Asian
+muri545,2.0,21.0,15.0,4.0,Asian
+muri548,1.0,22.0,15.0,3.0,Asian
+muri552,2.0,25.0,15.0,5.0,Asian
+muri554,2.0,19.0,2.0,2.0,Asian
+muri555,2.0,19.0,15.0,1.0,Asian
+muri560,2.0,21.0,15.0,4.0,White
+muri562,2.0,20.0,15.0,3.0,White
+muri570,2.0,21.0,20.0,4.0,Asian
+muri577,2.0,22.0,20.0,4.0,White
+muri579,2.0,21.0,15.0,3.0,White
+muri581,2.0,21.0,15.0,4.0,Asian
+muri583,2.0,20.0,15.0,3.0,Latino/a
+muri584,2.0,21.0,8.0,4.0,White
+muri586,2.0,19.0,20.0,2.0,White
+muri587,2.0,21.0,15.0,4.0,White
+muri590,2.0,19.0,20.0,1.0,White
+muri596,2.0,20.0,20.0,2.0,White
+muri603,2.0,21.0,20.0,3.0,Asian
+muri605,2.0,21.0,6.0,3.0,Black or African American
+muri610,1.0,19.0,,,
+muri612,2.0,20.0,,,
+muri616,2.0,20.0,,,
+muri620,2.0,19.0,,,
+muri622,2.0,21.0,,,
+muri623,2.0,22.0,,,
+muri624,2.0,20.0,,,
+muri627,2.0,22.0,,,
+muri628,2.0,22.0,,,
+muri674,1.0,20.0,,,
+muri683,1.0,21.0,,,
+muric206,2.0,18.0,20.0,1.0,Asian
+muric217,2.0,19.0,20.0,2.0,Asian
+muric220,1.0,19.0,8.0,1.0,Asian
+muric221,2.0,18.0,20.0,1.0,White
+muric237,2.0,22.0,20.0,4.0,White
+muric255,1.0,20.0,,,
+muric266,2.0,21.0,15.0,4.0,Asian
+muric270,2.0,20.0,20.0,2.0,White
+muric275,2.0,20.0,8.0,3.0,White
+muric279,2.0,20.0,,,
+muric289,2.0,18.0,0.0,2.0,White
+muric294,2.0,20.0,20.0,3.0,White
+muric298,2.0,22.0,3.0,4.0,Asian
+muric299,2.0,20.0,20.0,3.0,Asian
+muric314,2.0,20.0,8.0,3.0,Latino/a
+muric326,2.0,21.0,6.0,3.0,Latino/a
+muric341,2.0,19.0,20.0,2.0,Asian
+muric349,2.0,19.0,8.0,2.0,White
+muric366,2.0,21.0,15.0,4.0,White
+muric377,2.0,21.0,3.0,4.0,White
+muric395,1.0,24.0,3.0,1.0,White
+muric399,1.0,19.0,20.0,1.0,"Black or African American,Asian"
+muric422,2.0,20.0,15.0,3.0,White
+muric433,2.0,20.0,20.0,3.0,White
+muric436,2.0,20.0,20.0,2.0,White
+muric450,1.0,20.0,2.0,3.0,"White,American Indian or Alaska Native"
+muric451,1.0,19.0,20.0,2.0,White
+muric454,1.0,21.0,15.0,4.0,White
+muric468,2.0,21.0,15.0,3.0,Asian
+muric470_original,2.0,20.0,6.0,2.0,Black or African American
+muric484,2.0,19.0,3.0,1.0,Latino/a
+muric491,1.0,18.0,15.0,1.0,Asian
+muric496,2.0,19.0,0.0,1.0,Black or African American
+muric498,2.0,18.0,1.0,1.0,Asian
+muric505,2.0,18.0,20.0,1.0,White
+muric506,2.0,18.0,15.0,1.0,Asian
+muric507,1.0,21.0,20.0,3.0,Other
+muric525,2.0,18.0,20.0,1.0,Asian
+muric527,2.0,22.0,15.0,5.0,Asian
+muric531,2.0,19.0,6.0,1.0,White
+muric539,1.0,19.0,,,
+muric553,2.0,18.0,,,
