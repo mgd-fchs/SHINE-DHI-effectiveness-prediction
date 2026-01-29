@@ -18,7 +18,6 @@ Fuchs, M., Boyd, Z.M., Schwarze, A. *et al*. Predicting individual differences i
 - `added_checks.ipynb` includes further sensitivity analyses, mostly added in response to reviewer comments.
 - `model_free_evidence.ipynb` includes standard statistical tests on the baseline variables for responders and non-responders to the intervention.
 
-
 ## Public Data
 ### Main Analysis
 For the main prediction, 6 data domains collected at baseline were used:
@@ -33,6 +32,10 @@ The intervention outcome was computed from the logged drinking behavior:
 - `data/intervention_time/osf_study1.csv`
 - `data/intervention_time/osf_study2.csv`
 
+Other intervention-time data:
+- `data/intervention_time/intervention_time_controls_study1and2.csv` contains data on control group participants (for negative control comparisons)
+- `data/intervention_time/responsiveness_study1_*.csv` contains outcomes (i.e. responsive/non-responsive labels) depending on the occasions/week reduction threshold
+
 ### Added Analyses
 Several other data files (collected during the SHINE study but not used for the main analysis) were used for sensitivity and robustness checks:
 - `data/added_analysis/baseline_alc_self.csv` contains self-reported drinking frequency and amount for to establish test-retest stability of drinking perceptions between baseline and followup
@@ -41,6 +44,7 @@ Several other data files (collected during the SHINE study but not used for the 
 - `data/added_analysis/followup1_peers_and_self_drinking.csv` contains participants' self-reported drinking data at followup, to establish test-retest stability of drinking perceptions
 - `data/added_analysis/peer_perceptions_vs_peer_selfreports.csv` was used to visualize peer perceptions vs. self-reported drinking
 - `data/added_analysis/underestimators_study_1.csv` contains the IDs of participants who underestimated their peer's drinking to check for systematic differences between this group and the overestimators
+- `../data/added_analysis/weekly_drinking_summary_controlgroup.csv` is a summary of drinking occasions/week for the control group
 
 ## Private Data
 Due to risk of participant re-identification, social network data could not be published but is available from the authors upon reasonable request. File paths for these data sources have been left in the scripts so as to show where and how they were used. Below is a description of this data and the included features:

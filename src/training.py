@@ -1,32 +1,30 @@
-# Standard libraries
 import warnings
 from itertools import product
 
-# Data manipulation
 import numpy as np
 import pandas as pd
 
 from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import StandardScaler
-
-# Machine learning models
 from sklearn.ensemble import RandomForestClassifier
-from xgboost import XGBClassifier
 from sklearn.tree import DecisionTreeClassifier
-
-# Preprocessing and model evaluation
 from sklearn.model_selection import train_test_split, StratifiedKFold
 from sklearn.metrics import (
-    accuracy_score, roc_auc_score, f1_score,
-    precision_recall_curve, confusion_matrix, auc,
-    balanced_accuracy_score, matthews_corrcoef
+    accuracy_score,
+    roc_auc_score,
+    f1_score,
+    precision_recall_curve,
+    confusion_matrix,
+    auc,
+    balanced_accuracy_score,
+    matthews_corrcoef,
 )
 
 from pygam import LogisticGAM, s, f
+
 from pre_processing import *
 
-# Suppress warnings
-warnings.filterwarnings('ignore')
+warnings.filterwarnings("ignore")
 
 
 def prepare_features_and_targets(df, test_set=0, target_var='responsive'):
